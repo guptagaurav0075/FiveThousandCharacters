@@ -13,7 +13,13 @@
 </head>
 <body>
 <h1>Five Thousand Characters</h1>
-<a src=""></a>
+<a href="writeSomething.php">Write Something!</a>
+<h3>Check out what people are writing...</h3>
+<form>
+    <input type="text" placeholder="Phrase Filter"/>
+    <input type="select">
+
+</form>
 
 </body>
 </html>
